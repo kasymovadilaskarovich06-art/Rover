@@ -18,7 +18,7 @@
 #define LIMIT 10
 
 // Время поворота
-#define TURN_TIME 550
+#define TURN_TIME 575
 
 
 void setup() {
